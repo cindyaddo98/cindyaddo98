@@ -26,6 +26,7 @@ Insight Communication:	Turning findings into clear, concise narratives	Writing �
 
 
 🧰 TOOLKIT
+
 Languages & Tools: SQL · Python · Excel · Power BI
 
 CORE SKILLS: Data Cleaning · Reporting · Visualization · Data Storytelling · Insight Communication
