@@ -7,13 +7,17 @@ My goal is simple: to translate complex data into narratives that drive smarter,
 
 
 🎯 What I Do
-I see data as a narrative; every dataset tells a story of people, behaviors and opportunitiesand as such, I help organizations transform those stories into clear insights, meaningful dashboards and actionable intelligence that supports strategy, growth, and efficiency. With growing expertise in Power BI, Excel, SQL and Python, I focus on bridging numbers with human insight, turning complexity into clarity.
+
+I see data as a narrative; every dataset tells a story of people, behaviors and opportunities as such, I help organizations transform those stories into clear insights, meaningful dashboards and actionable intelligence that supports strategy, growth, and efficiency. With growing expertise in Power BI, Excel, SQL and Python, I focus on bridging numbers with human insight, turning complexity into clarity.
 
 
 🧠Focus Area	
 Data Cleaning:	Ensuring accuracy, consistency, and reliability of information	Excel 📊 · Python 🐍
+
 Data Analysis:	Extracting trends and uncovering behavioral insights	SQL 🗃️ · Excel 📊
+
 Data Visualization:	Telling compelling stories through dashboards and reports	Power BI 📈 · Excel 📊
+
 Insight Communication:	Turning findings into clear, concise narratives	Writing ✍️ · Presentation 🗣️
 
 
@@ -21,6 +25,7 @@ Insight Communication:	Turning findings into clear, concise narratives	Writing �
 
 🧰 Technical Toolkit
 Languages & Tools: SQL · Python · Excel · Power BI
+
 Core Skills: Data Cleaning · Reporting · Visualization · Data Storytelling · Insight Communication
 
 
@@ -31,8 +36,5 @@ To bridge human stories and analytical insights; helping organizations see beyon
 
 📫 Connect With Me
   
-  LinkedIn: linkedin.com/in/cindyanimaaddo
-  I’m open to collaborations and opportunities to apply data storytelling to businesses, education, and law and other industries. Let’s connect and build something meaningful.
-📧 Email: cindybrooke3@gmail.com
 🔗 LinkedIn: linkedin.com/in/cindyanimaaddo
 🤝 Open to collaborations that turn real-world problems into data-driven stories.
