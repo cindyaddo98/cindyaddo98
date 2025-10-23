@@ -6,12 +6,14 @@ With a background in customer service and a degree in writing, I understand both
 My goal is simple: to translate complex data into narratives that drive smarter, human-centered decisions.
 
 
-🎯 What I Do
+🎯 WHAT I DO
 
 I see data as a narrative; every dataset tells a story of people, behaviors and opportunities as such, I help organizations transform those stories into clear insights, meaningful dashboards and actionable intelligence that supports strategy, growth, and efficiency. With growing expertise in Power BI, Excel, SQL and Python, I focus on bridging numbers with human insight, turning complexity into clarity.
 
 
-🧠Focus Area	
+
+🧠FOCUS AREA
+
 Data Cleaning:	Ensuring accuracy, consistency, and reliability of information	Excel 📊 · Python 🐍
 
 Data Analysis:	Extracting trends and uncovering behavioral insights	SQL 🗃️ · Excel 📊
@@ -23,18 +25,18 @@ Insight Communication:	Turning findings into clear, concise narratives	Writing �
 
 
 
-🧰 Technical Toolkit
+🧰 TOOLKIT
 Languages & Tools: SQL · Python · Excel · Power BI
 
-Core Skills: Data Cleaning · Reporting · Visualization · Data Storytelling · Insight Communication
+CORE SKILLS: Data Cleaning · Reporting · Visualization · Data Storytelling · Insight Communication
 
 
 
-🚀 Mission
+🚀 MISSION
 To bridge human stories and analytical insights; helping organizations see beyond numbers and act on meaning.industries
 
 
-📫 Connect With Me
+📫 CONNECT WITH ME
   
 🔗 LinkedIn: linkedin.com/in/cindyanimaaddo
 🤝 Open to collaborations that turn real-world problems into data-driven stories.
